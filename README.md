@@ -5,3 +5,4 @@
 - [sprint03](https://github.com/JuliaBorovets/java-online-marathon/tree/master/src/main/java/sprint03)
 - [sprint04](https://github.com/JuliaBorovets/java-online-marathon/tree/master/src/main/java/sprint04)
 - [sprint05](https://github.com/JuliaBorovets/java-online-marathon/tree/master/src/main/java/sprint05)
+- [sprint06](https://github.com/JuliaBorovets/java-online-marathon/tree/master/src/main/java/sprint06)
